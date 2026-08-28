@@ -1,0 +1,32 @@
+# Sleep Calculator
+
+> Free sleep calculator based on 90-minute sleep cycles, plus in-depth guides on sleep science, hygiene, and healthy routines.
+
+Sleep Calculator helps you find the ideal bedtime or wake-up time so you wake up at the end of a natural sleep cycle instead of in the middle of one. The site also publishes plain-English articles covering the four sleep stages, sleep debt, napping, shift work, and how diet, exercise, light, and screens affect your rest.
+
+## Pages
+
+- [Home — Sleep Calculator](/): Calculate bedtime or wake-up time based on 90-minute sleep cycles.
+- [Tools](/tools): Additional sleep tools including nap calculator, chronotype quiz, and caffeine cutoff.
+- [Blog](/blog): Guides on sleep science, sleep hygiene, and healthy routines.
+- [About](/about): What Sleep Calculator is and who it's for.
+- [Contact](/contact): Get in touch with the Sleep Calculator team.
+
+## Articles
+
+- [The Science Behind Sleep Cycles](/blog/1): How the four stages of sleep work and why the 90-minute cycle matters.
+- [Why 90-Minute Sleep Cycles Matter](/blog/2): The research behind the 90-minute rhythm and how to use it.
+- [Best Sleep Schedule for Night Shift Workers](/blog/3): Protecting health when work hours fight your body clock.
+- [How Blue Light Affects Your Sleep](/blog/4): What screens do to melatonin and small changes that help.
+- [Power Napping: A Complete Guide](/blog/6): How long to nap, when to nap, and how to avoid grogginess.
+- [Sleep Debt: Can You Really Catch Up?](/blog/7): What sleep debt is and whether weekends can fix it.
+- [REM Sleep vs Deep Sleep](/blog/8): What each stage does for your body and mind.
+- [The Role of Melatonin in Sleep](/blog/10): When melatonin supplements help and when they don't.
+- [The Sleep Hygiene Checklist](/blog/19): The habits sleep specialists recommend to almost every patient.
+
+## Optional
+
+- [Privacy Policy](/privacy-policy)
+- [Terms](/terms)
+- [Disclaimer](/disclaimer)
+- [Cookie Policy](/cookie-policy)
